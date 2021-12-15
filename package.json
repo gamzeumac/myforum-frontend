@@ -48,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "netlify-cli": "^8.1.4",
     "redux-devtools-extension": "^2.13.8"
   }
 }
